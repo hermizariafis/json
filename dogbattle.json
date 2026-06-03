@@ -1,1 +1,23 @@
 
+{
+  "adNetwork": "admob",
+  "admob": {
+    "enabled": true,
+    "openAdId": "ca-app-pub-3940256099942544/9257395921",
+    "bannerAdId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
+    "nativeAdId": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "unity": {
+    "enabled": false,
+    "gameId": "1234567",
+    "bannerAdId": "Banner_Android",
+    "interstitialAdId": "Interstitial_Android"
+  },
+  "applovin": {
+    "enabled": false,
+    "sdkKey": "YOUR_SDK_KEY_HERE",
+    "bannerAdId": "YOUR_BANNER_ID",
+    "interstitialAdId": "YOUR_INTERSTITIAL_ID"
+  }
+}
